@@ -1,4 +1,4 @@
-# Run Buddy
+# Run Buddy, Inc
 
 ## Purpose
 A website that offers fitness training services.
@@ -12,3 +12,5 @@ https://jec6789.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by JEC6789
+
+### ©️2022 Run Buddy, Inc
